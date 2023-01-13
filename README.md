@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React and typescript**
 
-- 👨‍💻 All of my projects are available at [link-soon](link-soon)
+- 👨‍💻 All of my projects are available at [link-soon](https://www.lukaszkosobucki.pl/)
 
 - 💬 Ask me about **React, Javascript, Typescript**
 
