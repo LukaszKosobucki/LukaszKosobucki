@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://www.lukaszkosobucki.pl/)
 
-- 💬 Ask me about **React, Javascript, Typescript**
+- 💬 Ask me freely about **React, Javascript, Typescript**
 
 - 📫 How to reach me **lukasz.kos98@gmail.com**
 
