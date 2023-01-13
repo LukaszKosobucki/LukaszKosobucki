@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **mini memory game website**
 
-- 🌱 I’m currently learning **React and typescript**
+- 🌱 I’m currently polishing my skills working with **React and typescript**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://www.lukaszkosobucki.pl/)
 
