@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukaszkosobucki&label=Profile%20views&color=0e75b6&style=flat" alt="lukaszkosobucki" /> </p>
 
-- 🔭 I’m currently working on **Book shelf webpage**
+- 🔭 I’m currently working on **mini memory game website**
 
 - 🌱 I’m currently learning **React and typescript**
 
